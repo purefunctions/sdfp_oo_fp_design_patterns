@@ -1,0 +1,1 @@
+Supporting material for a talk given to San Diego Functional Programmers on the title "OO patterns in FP"
